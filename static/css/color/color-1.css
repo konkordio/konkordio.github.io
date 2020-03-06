@@ -1,0 +1,39 @@
+::selection {
+  background-color: #1c7d75;
+  color: #fff;
+}
+::-moz-selection {
+  background-color: #1c7d75;
+  color: #fff;
+}
+
+.section-title-01 h2,
+.about-info a:hover,
+.feature-info a:hover,
+.section-title h2,
+.work-content-01 h3,
+.feature-box.active .icon, 
+.feature-box:hover .icon,
+.header-nav .navbar-nav .nav-link:not(.nav-link-btn):hover,
+.header-nav .navbar-nav .nav-link.active,	
+.m-btn-theme:hover,
+.theme-color{
+  color: #1c7d75;
+}
+
+.frequent-left .nav-link.active,
+.theme-border,
+.team-box:hover .team-img:after,
+.m-btn-theme{
+	border-color: #1c7d75;
+}
+
+.frequent-left .nav-link.active,
+.team-title h4:after,
+.header-nav .navbar-nav .nav-link.active:after,
+.m-btn-theme,
+.theme-bg,
+.theme-after:after,
+.theme-hover:hover {
+  background: #1c7d75;
+}
