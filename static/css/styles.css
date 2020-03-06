@@ -849,9 +849,10 @@ a:active {
 }
 .footer-section .footer-logo {
   color: #fff;
-  font-weight: 700;
-  font-size: 25px;
+  font-weight: 600;
+  font-size: 22px;
   margin-bottom: 20px;
+  text-transform: uppercase;
 }
 .footer-section .footer-text p {
   width: 350px;
